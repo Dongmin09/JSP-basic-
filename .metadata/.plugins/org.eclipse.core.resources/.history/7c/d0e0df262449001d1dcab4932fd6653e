@@ -1,0 +1,14 @@
+title=Product Addition
+productId=Product ID
+pname=Name
+unitPrice=Unit Price
+description=Description
+manufacturer=Manufacturer
+category=Category
+unitsInStock=Units In Stock
+condition=\uc0c1\ud0dc
+productImage=\uc774\ubbf8\uc9c0
+condition_New=\uc2e0\uaddc \uc81c\ud488
+condition_Old=\uc911\uace0 \uc81c\ud488
+condition_Refurbished=\uc7ac\uc0dd \uc0c1\ud488
+button=\ub4f1\ub85d 

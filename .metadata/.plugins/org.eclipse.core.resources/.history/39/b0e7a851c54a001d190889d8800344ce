@@ -1,0 +1,7 @@
+package ch12;
+
+// Filter 인터페이스를 구현하는 클래스
+// 이 클래스는 web.xml과 밀접한 연관 관계가 있음
+public class AuthenFilter {
+
+}

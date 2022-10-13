@@ -1,0 +1,49 @@
+
+9월 27, 2022 14:40:25.760 NEW SESSION
+9월 27, 2022 14:40:25.760 [8548:9308:0927/144025.756:ERROR:device_event_log_impl.cc(214)] [14:40:25.756] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+9월 27, 2022 14:41:22.737 [8548:18584:0927/144122.737:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+10월 04, 2022 14:33:22.714 NEW SESSION
+10월 04, 2022 14:33:22.714 [8328:13788:1004/143322.703:ERROR:device_event_log_impl.cc(214)] [14:33:22.704] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 04, 2022 14:34:20.702 [8328:1392:1004/143420.702:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 04, 2022 16:15:16.105 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+10월 04, 2022 16:16:36.527 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+10월 04, 2022 16:16:43.382 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+10월 04, 2022 17:29:55.534 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+10월 04, 2022 17:30:16.480 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+10월 04, 2022 17:30:51.641 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+10월 04, 2022 19:13:51.362 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+10월 04, 2022 19:34:13.777 [8328:1356:1004/193413.777:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+10월 05, 2022 15:09:04.400 NEW SESSION
+10월 05, 2022 15:09:04.400 [13472:7232:1005/150904.399:ERROR:device_event_log_impl.cc(214)] [15:09:04.400] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 05, 2022 15:10:02.284 [13472:19996:1005/151002.284:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 05, 2022 15:10:55.524 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+10월 05, 2022 16:29:23.574 [13472:7232:1005/162923.574:ERROR:interface_endpoint_client.cc(689)] Message 0 rejected by interface blink.mojom.WidgetHost
+10월 05, 2022 16:36:12.298 [17860:15872:1005/163612.297:ERROR:device_event_log_impl.cc(214)] [16:36:12.297] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 05, 2022 16:36:24.960 [13360:10420:1005/163624.960:ERROR:device_event_log_impl.cc(214)] [16:36:24.960] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 05, 2022 16:36:52.208 [7528:19680:1005/163652.208:ERROR:device_event_log_impl.cc(214)] [16:36:52.208] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 05, 2022 16:37:53.411 [4608:17584:1005/163753.411:ERROR:device_event_log_impl.cc(214)] [16:37:53.410] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 05, 2022 16:38:51.411 [4608:16484:1005/163851.411:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 05, 2022 16:40:18.406 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+
+10월 05, 2022 19:09:24.904 NEW SESSION
+10월 05, 2022 19:09:24.904 [600:3764:1005/190924.903:ERROR:device_event_log_impl.cc(214)] [19:09:24.904] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 05, 2022 19:10:22.896 [600:15616:1005/191022.896:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+10월 06, 2022 14:00:15.32 NEW SESSION
+10월 06, 2022 14:00:15.33 [9752:19392:1006/140015.028:ERROR:device_event_log_impl.cc(214)] [14:00:15.028] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 06, 2022 14:01:12.44 [9752:14488:1006/140112.044:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 06, 2022 19:01:10.606 [9752:8744:1006/190110.605:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+10월 11, 2022 14:35:44.535 NEW SESSION
+10월 11, 2022 14:35:44.536 [18484:1220:1011/143544.534:ERROR:device_event_log_impl.cc(214)] [14:35:44.534] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 11, 2022 14:36:42.402 [18484:15848:1011/143642.402:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 11, 2022 19:24:23.410 [17508:18488:1011/192423.409:ERROR:device_event_log_impl.cc(214)] [19:24:23.410] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 11, 2022 19:25:21.406 [17508:20160:1011/192521.406:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 11, 2022 20:28:41.15 [11188:16360:1011/202841.015:ERROR:device_event_log_impl.cc(214)] [20:28:41.015] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 11, 2022 20:29:38.887 [11188:19028:1011/202938.887:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 11, 2022 20:29:51.537 [19988:5096:1011/202951.537:ERROR:device_event_log_impl.cc(214)] [20:29:51.537] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 11, 2022 20:30:48.676 [19988:332:1011/203048.676:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+10월 11, 2022 20:35:48.528 [18600:3400:1011/203548.528:ERROR:device_event_log_impl.cc(214)] [20:35:48.528] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+10월 11, 2022 20:36:46.507 [18600:14464:1011/203646.507:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

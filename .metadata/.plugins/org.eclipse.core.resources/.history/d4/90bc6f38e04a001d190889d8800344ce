@@ -1,0 +1,47 @@
+package ch12.com.filter;
+
+import java.io.IOException;
+
+import javax.servlet.Filter;
+import javax.servlet.FilterChain;
+import javax.servlet.FilterConfig;
+import javax.servlet.ServletException;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
+
+public class LoginCheckFilter implements Filter {
+
+	private FilterConfig filterConfig = null;
+	
+	// filterConfig <- {"param1" : "admin", "param2 : "admin1234"}
+	
+	// 필터 초기화
+	@Override
+	public void init(FilterConfig filterConfig) throws ServletException {
+		System.out.println("LoginCheckFilter 초기화...");
+		this.filterConfig = filterConfig;
+	}
+
+	@Override
+	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
+			throws IOException, ServletException {
+		System.out.println("LoginCheckFilter 실행 중...");
+		
+		String id = request.getParameter("id");
+		String passwd = request.getParameter("passwd");
+		
+		// web.xml에서 넘어온 값
+		String param1 = filterConfig.getInitParameter("param1"); // admin
+		String param2 = filterConfig.getInitParameter("param2"); // admin1234
+		
+		String message;
+		
+	}
+
+	@Override
+	public void destroy() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
