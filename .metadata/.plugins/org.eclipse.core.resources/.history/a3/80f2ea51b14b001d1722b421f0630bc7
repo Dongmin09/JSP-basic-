@@ -1,0 +1,9 @@
+package filter;
+
+import javax.servlet.Filter;
+
+public class LogFileFilter implements Filterer {
+
+	
+	
+}
