@@ -14,6 +14,10 @@ public class BookVO {
 	private String condition;
 	private String filename;
 	
+	// 13장 문제 5번으로 추가함
+	private int quantity; // 장바구니에 상품을 담은 개수
+	
+	
 	public BookVO() {}
 
 	public BookVO(String bookId, String name, int unitPrice) {
@@ -135,13 +139,23 @@ public class BookVO {
 		this.filename = filename;
 	}
 
+	public int getQuantity() {
+		return quantity;
+	}
+
+	public void setQuantity(int quantity) {
+		this.quantity = quantity;
+	}
+
 	@Override
 	public String toString() {
 		return "BookVO [bookId=" + bookId + ", name=" + name + ", unitPrice=" + unitPrice + ", author=" + author
 				+ ", description=" + description + ", publisher=" + publisher + ", category=" + category
 				+ ", unitsInstock=" + unitsInstock + ", totalPages=" + totalPages + ", releaseDate=" + releaseDate
-				+ ", condition=" + condition + ", filename=" + filename + "]";
+				+ ", condition=" + condition + ", filename=" + filename + ", quantity=" + quantity + "]";
 	}
+
+	
 
 
 	
