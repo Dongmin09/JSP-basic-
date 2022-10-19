@@ -10,7 +10,7 @@
 <body>
 <!--  머리글에 해당하는 menu.jsp 파일의 내용을 포함하도록
 	include 액션 태그를 작성 -->
-	<jsp:include page="../ch06/menu.jsp" />
+	<jsp:include page="/menu.jsp" />
 	
 	<div class="jumbotron">
 		<!-- container : 이안에 내용이 있다 -->
@@ -72,6 +72,6 @@
 	
 	
 	<!-- 끝맺음 -->
-	<jsp:include page="/ch06/footer.jsp" />
+	<jsp:include page="/footer.jsp" />
 </body>
 </html>
